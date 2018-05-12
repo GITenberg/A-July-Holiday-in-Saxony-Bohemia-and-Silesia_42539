@@ -1,0 +1,29 @@
+_repo: A-July-Holiday-in-Saxony-Bohemia-and-Silesia_42539
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42539-h/images/cover.jpg
+creator:
+  author:
+    agent_name: White, Walter
+    birthdate: 1811
+    deathdate: 1893
+    gutenberg_agent_id: '37992'
+    url: http://www.gutenberg.org/2009/agents/37992
+description: ''
+gutenberg_issued: '2013-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42539'
+  lccn: 04028767
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Saxony (Germany) -- Description and travel'
+- !lcsh 'Bohemia (Czech Republic) -- Description and travel'
+- !lcsh 'Silesia -- Description and travel'
+title: A July Holiday in Saxony, Bohemia, and Silesia
+url: http://www.gutenberg.org/ebooks/42539
